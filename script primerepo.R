@@ -1,0 +1,3 @@
+names(mtcars)
+
+summary(mtcars)
