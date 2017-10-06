@@ -7,3 +7,5 @@ mean(mtcars$mpg)
 x<-select(mtcars, mpg, cyl)
 
 x<-as.data.frame(x)
+
+x<-as.data.frame(x)
